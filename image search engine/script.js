@@ -1,4 +1,3 @@
-// document.addEventListener("DOMContentLoaded", function () {
 const accesskey = "oZiQJprwIRxa9SokDZ5q5daQV4Gx5SvC3Wi99Lj1WQI"
 
 const searchForm =document.getElementById("search-form")
@@ -48,4 +47,3 @@ showMoreBtn.addEventListener("click", ()=> {
     page++
     searchImages()
 })
-// })
